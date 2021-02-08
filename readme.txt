@@ -1,1 +1,2 @@
-donr read me sessy
+dont read me sessy
+and i changed it.
